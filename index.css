@@ -1,0 +1,28 @@
+body{
+  background-color: blueviolet;
+}
+i{
+ font-size: 48px;
+ color: red;
+padding:  8px 0px;
+background-color: transparent;
+
+}
+th{
+  color: white;
+}
+tr>td:nth-child(1){
+  color: whitesmoke;
+  font-weight: 700;
+}
+.form-control{
+  width: 50%;
+  display: inline-block;
+}
+
+.edt_btn{
+  border: none;
+  margin: 2px;
+  border-radius: 2px;
+  margin-left: 5px;
+}
